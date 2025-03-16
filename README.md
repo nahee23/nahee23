@@ -4,6 +4,7 @@
   🛠 Tech Stacks 🛠
 </h2>
 <div align="center">
+  <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
@@ -32,10 +33,12 @@
   
 </div>
 <br>
+<br>
 <h2 align="center">
   🎖️ GitHub Stat 🎖️
 </h2>
 <div align="center">
+<br>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahee23&theme=solarized-light&show_icons=true)](https://github.com/nahee23/github-readme-stats)
 
