@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,5,6,7,10,12,14,15,18,27&height=300&section=header&text=Welcome%20to%20Nahee's%20GitHub😆&fontSize=35&animation=twinkling&fontAlign=68&fontAlignY=42)
 
-<h3 align="center">
+<h2 align="center">
   🛠 Tech Stacks 🛠
-</h3>
+</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -32,9 +32,9 @@
   
 </div>
 <br>
-<h3 align="center">
+<h2 align="center">
   🎖️ GitHub Stat 🎖️
-</h3>
+</h2>
 <div align="center">
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahee23&theme=solarized-light&show_icons=true)](https://github.com/nahee23/github-readme-stats)
